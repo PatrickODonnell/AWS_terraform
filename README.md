@@ -8,3 +8,5 @@ Resources that have been modualised:
 - aws_ec2
 - aws_elastic_ip
 - aws_s3_bucket
+- aws_elastic_beanstalk_application
+- aws_elastic_beanstalk_environment
